@@ -53,7 +53,8 @@ python3 ytmp3.py
 
 # Rules:
 ```sh
-do not use it to download files that are too large, because it may not work
+do not use it to download files that are too large.
+because it may not work
 ```
 
 Contributions are always welcome!
