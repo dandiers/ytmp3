@@ -43,7 +43,7 @@ One star = continuously updating multiple tools
 # Setup
 ```sh
 git clone https://github.com/dandiers/ytmp3
-cd ytmp
+cd ytmp3
 pip install -r requirements.txt
 python3 ytmp3.py
 ```
